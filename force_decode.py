@@ -40,12 +40,12 @@ def force_decode(prompt, label_space, model, tokenizer, device):
 def run(llm_name, device, SOURCE_TASKS, TARGET_TASKS, prompter=Prompt()):
 
     if llm_name == 'llama-2-7b':
-        llama_2_7b_path = '/home/models/Llama-2-7b-hf'
+        llama_2_7b_path = 'meta-llama/Llama-2-7b-hf'
         llm_model = AutoModelForCausalLM.from_pretrained(llama_2_7b_path, torch_dtype=torch.float16, trust_remote_code=True, device_map = device).eval()
         tokenizer = AutoTokenizer.from_pretrained(llama_2_7b_path)
     
     elif llm_name == 'llama-2-13b':
-        llama_2_13b_path = '/home/eshaan/models/Llama-2-13b-hf/'
+        llama_2_13b_path = 'meta-llama/Llama-2-13b-hf'
         llm_model = AutoModelForCausalLM.from_pretrained(llama_2_13b_path, torch_dtype=torch.float16, trust_remote_code=True, device_map = device).eval()
         tokenizer = AutoTokenizer.from_pretrained(llama_2_13b_path)
 
