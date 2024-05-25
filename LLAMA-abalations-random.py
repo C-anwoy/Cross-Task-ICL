@@ -149,7 +149,7 @@ if __name__ == "__main__":
     parser.add_argument('--source_dataset_name',default='sst2,ag_news,mnli,race', type=str)
     parser.add_argument('--target_dataset_name',default='financial_phrasebank', type=str)
     parser.add_argument('--method',default='aba-mixed-cross-sim', type=str)
-    parser.add_argument('--model_name',default='/home/eshaan/models/Llama-2-13b-hf/', type=str)
+    parser.add_argument('--model_name',default='meta-llama/Llama-2-13b-hf', type=str)
     parser.add_argument('--device',required=True,type=str)
     parser.add_argument('--seed', default=0,type=int)
     parser.add_argument('--k', default=1,type=int)

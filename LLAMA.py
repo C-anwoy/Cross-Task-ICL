@@ -126,7 +126,7 @@ if __name__ == "__main__":
     parser.add_argument('--source_dataset_name',required=True, type=str)
     parser.add_argument('--target_dataset_name',required=True, type=str)
     parser.add_argument('--method',default='totally-cross-sim', type=str)
-    parser.add_argument('--model_name',default='/home/eshaan/models/Llama-2-13b-hf/', type=str)
+    parser.add_argument('--model_name',default='meta-llama/Llama-2-13b-hf', type=str)
     parser.add_argument('--device',required=True,type=str)
     parser.add_argument('--k', default=1,type=int)
     args = parser.parse_args()    

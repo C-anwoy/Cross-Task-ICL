@@ -162,7 +162,7 @@ if __name__ == "__main__":
     ###### Load model #####
 
     os.environ['AZURE_OPENAI_ENDPOINT'] = "https://kglm.openai.azure.com/"
-    os.environ['AZURE_OPENAI_KEY'] = "060db6b6c3ff468ca2215e0ef75b9cc1"
+    os.environ['AZURE_OPENAI_KEY'] = "####" #use your key
     deployment_name='kglm-text-davinci-003'
     openai.api_key = os.getenv("AZURE_OPENAI_KEY")
     openai.api_base = os.getenv("AZURE_OPENAI_ENDPOINT") # your endpoint should look like the following https://YOUR_RESOURCE_NAME.openai.azure.com/
