@@ -54,7 +54,7 @@ def run(llm_name, device, SOURCE_TASKS, TARGET_TASKS, prompter=Prompt()):
     
     for target_task in TARGET_TASKS:
 
-        with open(f'xai_exp/datasets/target/{target_task}.pkl','rb') as f:
+        with open(f'data/target/{target_task}.pkl','rb') as f:
             target_set=pickle.load(f)
     
         target_instruction = target_set['instruction']
