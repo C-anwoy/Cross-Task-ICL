@@ -1,0 +1,55 @@
+id,instructions,target_input,true_label,ag_news,ARC-Easy,boolq,commonsense_qa,conll2003_pos,conll2003_ner,mnli,qqp,race,sst2,zero-shot,psudo-label
+2733,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Robin supported Riley's weight to help hold them steady on the ladder. 
+ Question:What does Robin need to do before this? 
+A. make sure Riley doesn't fall off the ladder 
+B. be prepared for them to fall 
+C. safe 
+ Answer:",A, A. make sure Riley doesn't fall off the, A, A. make sure Riley doesn't fall off the, A, A. make sure Riley doesn't fall off the, A, A. make sure Riley doesn't fall off the, A. make sure Riley doesn't fall off the, A, A. make sure Riley doesn't fall off the, A. make sure Riley doesn't fall off the, A. make sure Riley doesn't fall off the
+14651,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Addison bared their teeth to the stranger who was whistling at them on the train. 
+ Question:What does Addison need to do before this? 
+A. let the stranger know they don't like it 
+B. show they aren't interested in them 
+C. hear the stranger 
+ Answer:",C, A. let the stranger know they don't like, B, A, A, B. show they aren't interested in them, A, A. let the stranger know they don't like, A. let the stranger know they don't like, A, B. show they aren't interested in them, A. let the stranger know they don't like, A
+15431,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Cameron loved practical jokes while baby-sitting, so Cameron played pranks on the kids. 
+ Question:What will Cameron want to do next? 
+A. get back at Cameron 
+B. play their own jokes 
+C. make sure the kids understand 
+ Answer:",C, B. play their own jokes, B, B. play their own jokes, B, B. play their own jokes, B. play their own jokes, B. play their own jokes, B. play their own jokes, B, B. play their own jokes, B. play their own jokes, B. play their own jokes
+16922,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Addison shut Lee's eyes after he died in her lap and then the ambulance showed up too late to help. 
+ Question:Why did Addison do this? 
+A. respect the dead as seen in the movies 
+B. say goodbye 
+C. conserve Lees energy to save him 
+ Answer:",A, B. say goodbye, B,<Junk-answer>, B, B. say goodbye, B. say goodbye, B. say goodbye, B. say goodbye, B, B. say goodbye, B. say goodbye, B. say goodbye
+20758,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Remy told Jordan that he was sorry for betraying him and that it would never happen again. 
+ Question:What will Jordan want to do next? 
+A. not betray Jordan 
+B. give an answer to Remy 
+C. think about how Jordan would feel 
+ Answer:",B, C. think about how Jordan would feel, C, C. think about how Jordan would feel, C, C. think about how Jordan would feel, C. think about how Jordan would feel, C. think about how Jordan would feel, C. think about how Jordan would feel, B, C. think about how Jordan would feel, C. think about how Jordan would feel, C. think about how Jordan would feel
+21244,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Bailey didn't want the others to suspect them so they pointed the finger at someone else. 
+ Question:How would Others feel as a result? 
+A. Guilty 
+B. tricked 
+C. grateful 
+ Answer:",B, B. tricked, B, B. tricked, B, B. tricked, B. tricked, B. tricked, B. tricked, B, B. tricked, B. tricked, B. tricked
+30404,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Jan would play games with other people's time at work. 
+ Question:How would Others feel as a result? 
+A. clever 
+B. like Jan enjoys being around them 
+C. annoyed by Jan 
+ Answer:",C, C. annoyed by Jan, C, C. annoyed by Jan, C, C. annoyed by Jan, C. annoyed by Jan, C. annoyed by Jan, C. annoyed by Jan, C, C. annoyed by Jan, C. annoyed by Jan, C. annoyed by Jan
+32104,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Jordan lost their job to their competitors because of not performing up to standards. 
+ Question:What will happen to Jordan? 
+A. get a vacation 
+B. be jobless 
+C. apply to interviews 
+ Answer:",B, B. be jobless, B, B. be jobless, B, B. be jobless, B. be jobless, B. be jobless, B. be jobless, B, B. be jobless, B. be jobless, B. be jobless
+32231,"Given an action as the context and a related question, you are to answer the question based on the context using your social intelligence. The question is of multiple choice form with three options ""A"", ""B"" and ""C"". Select the most appropriate answer from the provided choices ""A"", ""B"" and ""C"".","Context: Riley had anger issues but learned how to control themselves. 
+ Question:How would Riley feel afterwards? 
+A. Glad they don't let it get the best of them 
+B. learning 
+C. Glad they could do the best for them 
+ Answer:",A, A. Glad they don't let it get the, A, A. Glad they don't let it get the, A, A. Glad they don't let it get the, A, A. Glad they don't let it get the, A. Glad they don't let it get the, A, A. Glad they don't let it get the, A. Glad they don't let it get the, A. Glad they don't let it get the

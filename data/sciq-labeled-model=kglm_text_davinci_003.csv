@@ -1,0 +1,49 @@
+id,instructions,target_input,true_label,ag_news,ARC-Easy,boolq,commonsense_qa,conll2003_pos,conll2003_ner,mnli,qqp,race,sst2,zero-shot,psudo-label
+2733,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:What is the main difference between eukaryotic and prokaryotic cells?
+A. prokaryotic cells have a nucleus
+B. eukaryotic cells have a cell wall
+C. eukaryotic cells have a nucleus
+D. eukaryotic cells have a flagella 
+ Answer:",C, C. eukaryotic cells have a nucleus, C, C. eukaryotic cells have a nucleus, C, C. eukaryotic cells have a nucleus, C., C. eukaryotic cells have a nucleus, C. eukaryotic cells have a nucleus, C, C. eukaryotic cells have a nucleus, C. eukaryotic cells have a nucleus, C. eukaryotic cells have a nucleus
+3265,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:What gland is located at the base of the brain and secretes the hormone melatonin?
+A. thymus
+B. pineal
+C. thyroid
+D. pituitary 
+ Answer:",B, B. pineal, B, B. Pineal, B, B. pineal, B, B. pineal, B. pineal, B, B. pineal, B. Pineal, B. pineal
+4860,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:What group of elements cannot conduct electricity?
+A. metals
+B. nonmetals
+C. phosphates
+D. carbonates 
+ Answer:",B, B. nonmetals, D, B. nonmetals, B, B. nonmetals, B, B. nonmetals, B. nonmetals, B, B. nonmetals, B. nonmetals, B. nonmetals
+5875,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:Pigments are substances that absorb what?
+A. artificial light
+B. synthetic light
+C. natural light
+D. visible light 
+ Answer:",D, D. visible light, D, D. Visible light, D, D. Visible light, C., D. Visible light, D. Visible light, D, D. Visible light, D. Visible light, D. Visible light
+6745,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:As the population grows, competition for food does what?
+A. stagnates
+B. stays the same
+C. decreases
+D. grows 
+ Answer:",D, D. grows, D, D. grows, D, D. grows, D, D. grows, D. grows, D, D. grows, D. grows, D. grows
+9226,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:Meaning a disease that spreads from person to person, what term is synonymous with ""contagious""?
+A. infectious
+B. harmless
+C. noncommunicable
+D. benign 
+ Answer:",A, A. infectious, A, A. infectious, A, A. infectious, A., A. infectious, A. infectious, A, A. infectious, A. infectious, A. infectious
+9846,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:The amniotic sac is attached to what?
+A. uterus
+B. Umbilical Cord
+C. placenta
+D. Stomach 
+ Answer:",C, A. uterus, B, B. Umbilical Cord, A, B. Umbilical Cord, A., A. uterus, A. uterus, A, A. uterus, A. Uterus, A. uterus
+10800,"Given a question from a scientific exam about Physics, Chemistry, and Biology, among others. The question is in multiple choice format with four answer options ""A."", ""B."", ""C."" and ""D."". Using your knowledge about the scientific fields answer the question and provide the label ""A"", ""B"", ""C"" and ""D"" as answer","Question:The level of carbon dioxide in the atmosphere is greatly influenced by the reservoir of carbon where?
+A. in the oceans
+B. before the oceans
+C. after the oceans
+D. in the earth 
+ Answer:",A, A. in the oceans, A, A. in the oceans, A, A., A, A. in the oceans, A. in the oceans, A, A. in the oceans, A. in the oceans, A. in the oceans
