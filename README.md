@@ -13,6 +13,9 @@ Then extract all the similar prompts by running the `get_similar_prompts.py` scr
 ### Running main results
 Use the drive folder for scripts to reproduce main results.
 
+### Evaluation
+We use exact match to calculate the accuracy for the tables (unless force decoding is specified explicitly). Use the `Eval.ipynb` notebook for calculating accuracy based on exact match.
+
 ## Paper Citation
 If you found the paper helpful, consider citing it:
 ```
