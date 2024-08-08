@@ -6,7 +6,7 @@ Code corresponding to the paper <a href="https://arxiv.org/abs/2405.10548" targe
 ## Replication Instructions
 
 ### Dataset creation
-To generate the dataset splits of taget, source and psudo-target. First run the `data_preprocess.ipynb file`. This will generate the various splits in the data folder.
+To generate the dataset splits of taget, source and psudo-target. First run the `data_preprocess.ipynb file`. This will generate the various splits in the data folder. This requires at least 130GB of storage.
 
 Then extract all the similar prompts by running the `get_similar_prompts.py` script. This will generate target-prompts and target-psudo-prompts in the data folder. Note pass `--make_psudo` argument to generate target-psudo-prompts.
 
